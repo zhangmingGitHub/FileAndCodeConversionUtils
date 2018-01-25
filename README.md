@@ -1,0 +1,4 @@
+# FileAndCodeConversionUtils
+文件与base64编码字符串相互转换
+
+今天工作需要调用接口把本地word文档转为base64编码的字符串，调用成功会返回一个pdf格式的base64编码字符串。自己就写了这么一个文件与base64编码字符串相互转换的工具类。<br>
